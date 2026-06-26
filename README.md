@@ -1,33 +1,57 @@
+<div align="center">
+
 # Hi, I'm Maqoba Jiyane 👋
 
-## Backend & Full-Stack Developer | API Development | Business Systems | AI-Powered Applications
+### Backend & Full-Stack Developer
 
-I am a software developer with a strong interest in building practical systems that solve real business and community problems.
+### API Development • Business Systems • AI-Powered Applications
 
-My main strength is backend development, but I also work comfortably across the full stack using tools like **Next.js, TypeScript, NestJS, Prisma, MongoDB, PostgreSQL, and Tailwind CSS**.
+I build practical software systems that solve real business and community problems.
 
-I enjoy building products that are useful, scalable, and easy for real users to understand.
+[![Email](https://img.shields.io/badge/Email-maqoba.emannuel%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:maqoba.emannuel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Maqoba--Jiyane-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Maqoba-Jiyane)
+[![Location](https://img.shields.io/badge/Location-South%20Africa-007A4D?style=for-the-badge)](#)
+
+</div>
 
 ---
 
 ## About Me
 
-I started my software development journey with Java and later grew into backend development, system integrations, APIs, databases, and modern full-stack web applications.
+I am a software developer with a strong interest in building systems that are useful, scalable, and easy for real users to understand.
 
-I like working on projects where software has a clear purpose.
+My main strength is backend development, but I also work comfortably across the full stack using tools like **Next.js, TypeScript, NestJS, Prisma, MongoDB, PostgreSQL, and Tailwind CSS**.
 
-Some of the areas I focus on include:
+I started my software development journey with **Java** and later grew into backend development, system integrations, APIs, databases, and modern full-stack web applications.
 
-* Backend systems
-* API development
-* Full-stack web applications
-* Database design
-* Business process automation
-* AI-powered applications
-* Job platforms
-* Marketplace platforms
-* Document intelligence systems
-* Practical tools that help people and businesses
+I like working on projects where software has a clear purpose and creates real value.
+
+---
+
+## Core Focus Areas
+
+<table>
+  <tr>
+    <td><strong>Backend Systems</strong></td>
+    <td>APIs, services, authentication, business logic, and system architecture.</td>
+  </tr>
+  <tr>
+    <td><strong>Full-Stack Development</strong></td>
+    <td>Building complete web applications from frontend to backend.</td>
+  </tr>
+  <tr>
+    <td><strong>Database Design</strong></td>
+    <td>Designing schemas, relationships, queries, and data flows.</td>
+  </tr>
+  <tr>
+    <td><strong>Business Systems</strong></td>
+    <td>Creating software that supports real operations, workflows, and growth.</td>
+  </tr>
+  <tr>
+    <td><strong>AI-Powered Applications</strong></td>
+    <td>Building systems around document processing, embeddings, and automation.</td>
+  </tr>
+</table>
 
 ---
 
@@ -86,23 +110,12 @@ Some of the areas I focus on include:
 
 ---
 
-## Roles I Am Open To
-
-I am open to opportunities in:
-
-* Backend Development
-* Full-Stack Development
-* Software Development
-* API Development
-* Systems Integration
-* Application Support with development growth
-* AI-powered software projects
-* Junior to Intermediate Developer roles
-
----
-
 ## Contact
 
-* Email: [maqoba.emannuel@gmail.com](mailto:maqoba.emannuel@gmail.com)
-* GitHub: [@Maqoba-Jiyane](https://github.com/Maqoba-Jiyane)
-* Location: South Africa
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-maqoba.emannuel%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:maqoba.emannuel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Maqoba--Jiyane-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Maqoba-Jiyane)
+[![Location](https://img.shields.io/badge/South%20Africa-007A4D?style=for-the-badge)](#)
+
+</div>
