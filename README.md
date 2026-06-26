@@ -47,24 +47,11 @@ My main strength is backend development, including API design, database schema d
 
 From my roots in **Java** to modern full-stack development, I aim to write clean, practical code that solves real organizational problems and improves business workflows. I enjoy working on systems where software has a clear purpose and delivers measurable value.
 
----
-
 ## 🚀 Featured Projects
 
-### 1. [PodSphere](https://github.com/Maqoba-Jiyane/podsphere)
-
-A scalable audio content application focused on smooth content delivery, clean UI structure, and efficient data handling.
-
-**Tech Stack:** Next.js, TypeScript, Backend Integration, Tailwind CSS
-
-**Key Value:**
-Built with a strong focus on performance, structured content delivery, and smooth user experience.
-
-[View Code Repository](https://github.com/Maqoba-Jiyane/podsphere)
-
 ---
 
-### 2. [Contexto](https://github.com/Maqoba-Jiyane/contexto)
+### 1. [Contexto](https://github.com/Maqoba-Jiyane/contexto)
 
 A business-focused application designed to manage contextual information, structure workflows, and support scalable backend logic.
 
@@ -74,6 +61,19 @@ A business-focused application designed to manage contextual information, struct
 Focuses on clean data schemas, reliable relationships, modular business logic, and scalable system design.
 
 [View Code Repository](https://github.com/Maqoba-Jiyane/contexto)
+
+---
+
+### 2. [PodSphere](https://github.com/Maqoba-Jiyane/podsphere)
+
+A scalable audio content application focused on smooth content delivery, clean UI structure, and efficient data handling.
+
+**Tech Stack:** Next.js, TypeScript, Backend Integration, Tailwind CSS
+
+**Key Value:**
+Built with a strong focus on performance, structured content delivery, and smooth user experience.
+
+[View Code Repository](https://github.com/Maqoba-Jiyane/podsphere)
 
 ---
 
