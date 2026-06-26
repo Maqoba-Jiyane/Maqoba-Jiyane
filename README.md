@@ -2,120 +2,63 @@
 
 # Hi, I'm Maqoba Jiyane 👋
 
-### Backend & Full-Stack Developer
+### 🚀 Backend & Full-Stack Developer | Building Scalable, AI-Powered Business Systems
 
-### API Development • Business Systems • AI-Powered Applications
-
-I build practical software systems that solve real business and community problems.
-
-[![Email](https://img.shields.io/badge/Email-maqoba.emannuel%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:maqoba.emannuel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Maqoba--Jiyane-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Maqoba-Jiyane)
-[![Location](https://img.shields.io/badge/Location-South%20Africa-007A4D?style=for-the-badge)](#)
+[![Email](https://shields.io)](mailto:maqoba.emannuel@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Timezone](https://shields.io)](https://worldtimebuddy.com)
 
 </div>
 
 ---
 
-## About Me
+## 🛠️ Tech Stack & Skills
 
-I am a software developer with a strong interest in building systems that are useful, scalable, and easy for real users to understand.
+### Backend & Databases
+![TypeScript](https://shields.io)
+![NestJS](https://shields.io)
+![NodeJS](https://shields.io)
+![Java](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MongoDB](https://shields.io)
+![Prisma](https://shields.io)
 
-My main strength is backend development, but I also work comfortably across the full stack using tools like **Next.js, TypeScript, NestJS, Prisma, MongoDB, PostgreSQL, and Tailwind CSS**.
-
-I started my software development journey with **Java** and later grew into backend development, system integrations, APIs, databases, and modern full-stack web applications.
-
-I like working on projects where software has a clear purpose and creates real value.
-
----
-
-## Core Focus Areas
-
-<table>
-  <tr>
-    <td><strong>Backend Systems</strong></td>
-    <td>APIs, services, authentication, business logic, and system architecture.</td>
-  </tr>
-  <tr>
-    <td><strong>Full-Stack Development</strong></td>
-    <td>Building complete web applications from frontend to backend.</td>
-  </tr>
-  <tr>
-    <td><strong>Database Design</strong></td>
-    <td>Designing schemas, relationships, queries, and data flows.</td>
-  </tr>
-  <tr>
-    <td><strong>Business Systems</strong></td>
-    <td>Creating software that supports real operations, workflows, and growth.</td>
-  </tr>
-  <tr>
-    <td><strong>AI-Powered Applications</strong></td>
-    <td>Building systems around document processing, embeddings, and automation.</td>
-  </tr>
-</table>
+### Frontend & Cloud
+![Next.js](https://shields.io)
+![TailwindCSS](https://shields.io)
 
 ---
 
-## Featured Projects
+## 💼 Professional Summary
 
-### Employment Echo
+I am a results-driven **Backend and Full-Stack Developer** based in **South Africa** [Maqoba-Jiyane](https://github.com/Maqoba-Jiyane), with a deep passion for designing scalable APIs, robust database architectures, and intuitive business systems. 
 
-**Employment Echo** is a South African opportunities platform that helps job seekers discover verified jobs, learnerships, internships, graduate programmes, bursaries, and entry-level opportunities.
-
-**What this project shows:**
-
-* Full-stack application development
-* Job listing management
-* Admin dashboard development
-* Search and filtering
-* SEO-focused routing
-* Company profile management
-* Mobile-first UI
-* Google AdSense monetisation
-* Real-world product thinking
-* Audience and community growth
+From my foundation in **Java** to modern full-stack environments utilizing **NestJS, TypeScript, and Prisma**, I focus on building software that solves real-world operational problems. I thrive in remote, collaborative environments where code quality and architectural integrity drive business growth.
 
 ---
 
-### Contexto
+## 🚀 Featured Projects
 
-**Contexto** is a backend-focused AI and document intelligence platform designed around document ingestion, chunking, embeddings, and retrieval-ready data processing.
+*(Replace these placeholders with your top 2-3 GitHub repositories)*
 
-**What this project shows:**
+### 1. **[Project Name]**
+*A short, punchy 1-2 sentence description of what the project does.*
+* **Tech:** [NestJS, PostgreSQL, Prisma]
+* ✨ **Key Feature 1** | ✨ **Key Feature 2**
+* 🔗 [View on GitHub](#) | 🌐 [Live Demo](#)
 
-* Backend architecture
-* Document ingestion workflows
-* Queue-based background processing
-* AI-ready document processing
-* Chunking and metadata handling
-* Embedding-based search preparation
-* API endpoint development
-* Prisma data modelling
-* Scalable service thinking
-
----
-
-### Kasi Flavors
-
-**Kasi Flavors** is a local food ordering and collection platform created to help township food businesses sell online, manage menus, and receive customer orders.
-
-**What this project shows:**
-
-* Marketplace platform thinking
-* Store owner onboarding
-* Product and menu management
-* Order flow planning
-* Local business support
-* AI-assisted menu extraction ideas
-* Community-focused software development
+### 2. **[Project Name]**
+*A short, punchy 1-2 sentence description of what the project does.*
+* **Tech:** [Next.js, TypeScript, MongoDB]
+* ✨ **Key Feature 1** | ✨ **Key Feature 2**
+* 🔗 [View on GitHub](#) | 🌐 [Live Demo](#)
 
 ---
 
-## Contact
-
+## 📈 GitHub Stats
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-maqoba.emannuel%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:maqoba.emannuel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Maqoba--Jiyane-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Maqoba-Jiyane)
-[![Location](https://img.shields.io/badge/South%20Africa-007A4D?style=for-the-badge)](#)
+  <img height="180px" src="https://vercel.app" alt="Maqoba's GitHub Stats" />
+  <img height="180px" src="https://vercel.app" alt="Top Languages" />
+</div>
 
 </div>
