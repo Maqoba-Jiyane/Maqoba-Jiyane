@@ -29,8 +29,6 @@ Some of the areas I focus on include:
 * Document intelligence systems
 * Practical tools that help people and businesses
 
-I am also comfortable working with business and finance-related workflows, including exposure to accounts payable, cash payments support, and systems such as **Sage Intacct**.
-
 ---
 
 ## Featured Projects
