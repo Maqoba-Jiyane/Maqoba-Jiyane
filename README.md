@@ -5,7 +5,7 @@
 ### 🚀 Backend & Full-Stack Developer | Building Scalable, AI-Powered Business Systems
 
 [![Email](https://shields.io)](mailto:maqoba.emannuel@gmail.com)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/maqoba-jiyane)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Timezone](https://shields.io)](https://worldtimebuddy.com)
 
 </div>
@@ -39,23 +39,23 @@ From my roots in **Java** to modern web ecosystems using **Next.js, TypeScript, 
 
 ## 🚀 Featured Production-Ready Projects
 
-### 1. **[PodSphere](https://github.com/Maqoba-Jiyane/PodSphere)**
+### 1. **[PodSphere](https://github.com)**
 A comprehensive and scalable audio content application built to optimize data delivery and handling pipelines.
 * **Architecture & Tech:** Next.js, TypeScript, Backend Integration, Tailwind CSS.
 * ✨ **Key Value:** Implements dynamic front-to-back streaming features and smooth asset loading designed for optimal user performance.
-* 🔗 [View Code Repository](https://github.com/Maqoba-Jiyane/PodSphere)
+* 🔗 [View Code Repository](https://github.com)
 
-### 2. **[ContextTo](https://github.com/Maqoba-Jiyane/ContextTo)**
+### 2. **[ContextTo](https://github.com)**
 A business-driven application built to isolate and scale background contexts, optimizing system workflows.
 * **Architecture & Tech:** Full-stack TypeScript, Core Business Logic Layering, Prisma ORM.
 * ✨ **Key Value:** Focuses heavily on strict data schemas, reliable relationships, and clean, modular data extraction layers.
-* 🔗 [View Code Repository](https://github.com/Maqoba-Jiyane/ContextTo)
+* 🔗 [View Code Repository](https://github.com)
 
-### 3. **[Meme Generator](https://github.com/Maqoba-Jiyane/Meme-Generator)**
+### 3. **[Meme Generator](https://github.com)**
 An interactive full-stack processing project emphasizing fast DOM interactions and asset state manipulation.
 * **Architecture & Tech:** TypeScript / Modern JavaScript, Clean State Management, High-fidelity Layouts.
 * ✨ **Key Value:** Features rapid client-side rendering pipelines and light architectural components for immediate user interactivity.
-* 🔗 [View Code Repository](https://github.com/Maqoba-Jiyane/Meme-Generator)
+* 🔗 [View Code Repository](https://github.com)
 
 ---
 
