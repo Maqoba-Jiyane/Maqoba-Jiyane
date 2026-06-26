@@ -22,11 +22,11 @@
 
 ## 💼 Professional Snapshot
 
-- Build **scalable backend architectures** with clean business logic, maintainable modules, and production-focused structure.
-- Design and develop **REST APIs**, backend services, integrations, and data-driven application workflows.
-- Create reliable **database schemas** using Prisma, PostgreSQL, and MongoDB with a focus on relationships, performance, and long-term maintainability.
-- Work across the full stack using **TypeScript, NestJS, Next.js, Node.js, Prisma, MongoDB, PostgreSQL, and Tailwind CSS**.
-- Focus on practical software that solves real business problems, improves workflows, and creates value for users.
+* Build **scalable backend architectures** with clean business logic, maintainable modules, and production-focused structure.
+* Design and develop **REST APIs**, backend services, integrations, and data-driven application workflows.
+* Create reliable **database schemas** using Prisma, PostgreSQL, and MongoDB with a focus on relationships, performance, and long-term maintainability.
+* Work across the full stack using **TypeScript, NestJS, Next.js, Node.js, Prisma, MongoDB, PostgreSQL, and Tailwind CSS**.
+* Focus on practical software that solves real business problems, improves workflows, and creates value for users.
 
 ---
 
@@ -46,24 +46,24 @@ My goal is to keep improving as a developer by building real products, solving r
 
 ### Backend & Databases
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
 ### Frontend & UI
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 1. Contexto
+### Contexto
 
 A business-focused application designed to manage contextual information, structure workflows, and support scalable backend logic.
 
@@ -71,10 +71,10 @@ A business-focused application designed to manage contextual information, struct
 
 **Engineering Focus:**
 
-- Clean data schemas
-- Reliable entity relationships
-- Modular business logic
-- Scalable backend structure
+* Clean data schemas
+* Reliable entity relationships
+* Modular business logic
+* Scalable backend structure
 
 <p>
   <a href="https://github.com/Maqoba-Jiyane/contexto">
@@ -89,64 +89,14 @@ A business-focused application designed to manage contextual information, struct
 
 ---
 
-### 2. PodSphere
-
-A scalable audio content application focused on smooth content delivery, clean UI structure, and efficient data handling.
-
-**Tech Stack:** Next.js, TypeScript, Backend Integration, Tailwind CSS
-
-**Engineering Focus:**
-
-- Structured content delivery
-- Responsive user interface
-- Backend integration
-- Performance-focused application flow
-
-<p>
-  <a href="https://github.com/Maqoba-Jiyane/podsphere">
-    <img src="https://img.shields.io/badge/Code%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code Repository" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-</p>
-
-<!-- PROJECT_SCREENSHOT: PodSphere -->
-
----
-
-### 3. Meme Generator
-
-An interactive web application focused on fast UI interactions, asset handling, and client-side state management.
-
-**Tech Stack:** TypeScript, JavaScript, Frontend Logic, Responsive UI
-
-**Engineering Focus:**
-
-- Interactive frontend logic
-- Client-side state management
-- Asset handling
-- Fast user-driven rendering
-
-<p>
-  <a href="https://github.com/Maqoba-Jiyane/meme-generator">
-    <img src="https://img.shields.io/badge/Code%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code Repository" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-</p>
-
-<!-- PROJECT_SCREENSHOT: Meme Generator -->
-
----
-
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:commits-->
+
 <!--END_SECTION:commits-->
 
 ---
