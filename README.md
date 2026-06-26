@@ -30,6 +30,18 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I am a software developer from South Africa who enjoys building practical systems that solve real business and community problems.
+
+My journey started with **Java**, then grew into backend development, system integrations, API design, databases, and modern full-stack applications. Today, my strongest focus is building reliable backend systems using **TypeScript, NestJS, Prisma, PostgreSQL, MongoDB, and Node.js**, while also working across the frontend with **Next.js and Tailwind CSS**.
+
+I like working on projects where software has a clear purpose — platforms that help people find opportunities, automate workflows, manage information, or make business processes easier to understand and use.
+
+My goal is to keep improving as a developer by building real products, solving real problems, and writing code that is clean, scalable, and useful.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### Backend & Databases
