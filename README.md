@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack & Skills
 
 ### Backend & Databases
-![JSR Version](https://img.shields.io/jsr/v/:scope/:packageName)
+![TypeScript](https://img.shields.io/jsr/v/:scope/:packageName)
 ![NestJS](https://shields.io)
 ![NodeJS](https://shields.io)
 ![Java](https://shields.io)
