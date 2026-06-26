@@ -1,68 +1,304 @@
-# Maqoba Jiyane - Integration Developer
+# Hi, I'm Maqoba Jiyane 👋
 
-## 📞 Contact Information
-- **Name:** Maqoba Jiyane
-- **Occupation:** Integration Developer
-- **Location:** Centurion, South Africa
-- **E-mail:** maqoba.emannuel@gmail.com
+I am a backend and full-stack developer with experience building practical, real-world systems that solve business problems.
 
-## 🚀 Summary
-Experienced Integration Developer with expertise in a wide range of integration technologies and programming languages such as Java and Python. Skilled in API development, data integration, and integration design patterns. Proficient in version control, deployment, and ensuring security standards. Committed to excellence and driving seamless integration processes to meet business goals.
+My background is mainly in backend development, integrations, APIs, databases, automation, and modern web applications. I enjoy building platforms that are useful, scalable, and easy for real users to understand.
 
-## 🔧 Skills
-- ![TestNG](https://img.shields.io/badge/TestNG-Expert-brightgreen)
-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Proficient-blue)
-- ![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-Proficient-orange)
-- ![Websphere Application Server](https://img.shields.io/badge/Websphere%20Application%20Server-Proficient-yellow)
-- ![Postman API](https://img.shields.io/badge/Postman%20API-Proficient-lightgrey)
-- ![Software automation](https://img.shields.io/badge/Software%20automation-Proficient-purple)
-- ![Quality Assurance Testing](https://img.shields.io/badge/Quality%20Assurance%20Testing-Proficient-red)
-- ![HTML and XML](https://img.shields.io/badge/HTML%20and%20XML-Proficient-green)
-- ![API design knowledge](https://img.shields.io/badge/API%20design%20knowledge-Proficient-blue)
-- ![Advanced SAP knowledge](https://img.shields.io/badge/Advanced%20SAP%20knowledge-Proficient-pink)
-- ![Testing and maintenance](https://img.shields.io/badge/Testing%20and%20maintenance-Proficient-turquoise)
+I am currently focused on growing my skills in full-stack development, cloud deployment, AI-powered applications, and business-focused software products.
 
-## 🏆 Achievements & Awards
-- IBM Certified Solution Developer - App Connect Enterprise V11
-- Oracle Certified Associate Java SE 8 Programmer
-- Exam 461: Querying Microsoft SQL Server
-- Microsoft Certified - Azure Fundamentals
-- Microsoft 365 Certified - Fundamentals
-- MTA Database Fundamentals
+---
 
-## 🛠️ Work History
+## What I Bring
 
-### Integration Developer
-**DeArx Services Ltd, Randburg**
-- *2021-07 - 2023-01*
-  - Established foundation in integration technologies, API development, and data integration.
-  - Demonstrated proficiency in message-based integration using various protocols.
-  - Applied integration design patterns to optimize solutions.
-  - Conducted thorough integration testing and troubleshooting.
-  - Collaborated effectively with cross-functional teams.
-  - Implemented security and governance practices.
+I am not just interested in writing code. I care about building systems that work in the real world.
 
-## 📚 Education
+My strengths include:
 
-### Java Software Development: Information Technology
-**Afrika Tikkun - Johannesburg, South Africa**
-- *2020-03 - 2021-02*
-  - Completed Java 8 SE training and gained proficiency in Java programming and Microsoft SQL Server.
+- Backend development and API design
+- Full-stack web development
+- Database design and data modelling
+- Business process thinking
+- System integration
+- Problem solving under pressure
+- Learning quickly and adapting to new tools
+- Turning ideas into working products
+- Building user-friendly systems for real people
+- Strong ownership and consistency
 
-### Modern Desktop Administrator: Information Technology
-**Mecer Inter-Ed - Midrand, South Africa**
-- *2021-02 - 2021-03*
-  - Acquired skills in desktop environment management and security.
+I enjoy working on products where technology solves a clear problem.
 
-### Java Software Development: Information Technology
-**Mecer Inter-Ed - Midrand, South Africa**
-- *2021-03 - 2021-06*
-  - Completed Java EE training and developed skills in enterprise application development.
+---
 
-## 🎮 Hobbies
-- Watching Anime
-- Reading Mystery Novels
-- Gaming
+## Technical Skills
 
-## 📞 Contact
-For inquiries or opportunities, reach out via email at maqoba.emannuel@gmail.com.
+### Languages
+
+- TypeScript
+- JavaScript
+- Java
+- Python
+- SQL
+
+### Frontend
+
+- Next.js
+- React
+- Tailwind CSS
+- Responsive UI development
+- Mobile-first web design
+
+### Backend
+
+- Node.js
+- NestJS
+- REST APIs
+- Authentication and authorization
+- Background jobs and queues
+- Server-side logic
+- API integrations
+
+### Databases and ORM
+
+- MongoDB
+- PostgreSQL
+- Prisma
+- Database schema design
+- Query optimization basics
+
+### Cloud and Deployment
+
+- Vercel
+- GitHub
+- Environment configuration
+- Production deployment workflows
+- Basic VPS/cloud hosting concepts
+
+### Tools and Platforms
+
+- Git
+- GitHub
+- Prisma Studio
+- MongoDB Atlas
+- Clerk
+- Google Analytics
+- Google AdSense
+- Vercel Blob
+- BullMQ
+- Swagger/OpenAPI basics
+
+### Business and Finance Systems
+
+- Sage Intacct knowledge
+- Accounts payable support exposure
+- Cash payments team support exposure
+- Understanding of business workflows and financial processes
+
+---
+
+## Featured Projects
+
+### Employment Echo
+
+Employment Echo is a South African opportunities platform that helps job seekers discover verified jobs, learnerships, internships, graduate programmes, bursaries, and entry-level opportunities.
+
+**What this project shows:**
+
+- Full-stack product development
+- Job listing management
+- SEO-focused pages
+- Admin dashboard functionality
+- Company profile management
+- Search and filtering
+- Mobile-first design
+- Google AdSense monetisation
+- Real audience growth and community building
+
+**Tech used:**
+
+```txt
+Next.js
+TypeScript
+Prisma
+MongoDB Atlas
+Clerk
+Tailwind CSS
+Vercel
+SWR
+Google Analytics
+Google AdSense
+```
+
+---
+
+### Kasi Flavors
+
+Kasi Flavors is a food ordering and collection platform designed to help local food businesses list their stores, manage menus, and receive customer orders.
+
+**What this project shows:**
+
+- Marketplace thinking
+- Owner onboarding flow
+- Menu management
+- AI-assisted menu extraction ideas
+- Store dashboard planning
+- Product and order management
+- Community-focused business development
+
+**Tech used:**
+
+```txt
+Next.js
+TypeScript
+Prisma
+MongoDB
+Tailwind CSS
+Vercel
+AI integration planning
+```
+
+---
+
+### RAG / Document Intelligence Platform
+
+A backend-focused project for ingesting documents, processing content, creating chunks, managing embeddings, and preparing documents for AI search and retrieval.
+
+**What this project shows:**
+
+- Backend architecture
+- Queue-based processing
+- Document ingestion workflows
+- AI-ready data structures
+- API development
+- Database modelling
+- Scalable system planning
+
+**Tech used:**
+
+```txt
+NestJS
+TypeScript
+Prisma
+BullMQ
+MongoDB
+AI embeddings
+Document processing
+```
+
+---
+
+### Portfolio and Blog Platform
+
+A personal portfolio and blog project focused on clean presentation, technical writing, and structured content.
+
+**What this project shows:**
+
+- Personal branding
+- Content management
+- Next.js routing
+- MDX/content structure
+- Clean UI development
+- Deployment troubleshooting
+
+**Tech used:**
+
+```txt
+Next.js
+TypeScript
+MDX
+Tailwind CSS
+Vercel
+Prisma
+```
+
+---
+
+## Professional Strengths
+
+### 1. I Build Practical Systems
+
+I focus on software that people can actually use. My projects are not only experiments. They are built around real problems, users, content, data, and business needs.
+
+### 2. I Understand Both Code and Business
+
+I can think beyond the technical side. I understand that software must support operations, users, growth, and revenue.
+
+### 3. I Learn Fast
+
+I am comfortable learning new tools, fixing issues, reading errors, debugging deployments, and improving systems step by step.
+
+### 4. I Take Ownership
+
+I enjoy taking responsibility for a feature, understanding the problem, building the solution, testing it, and improving it.
+
+### 5. I Can Work Across the Stack
+
+Although my strength is backend development, I can also work on frontend features, UI layouts, dashboards, forms, content pages, and deployment tasks.
+
+---
+
+## Career Interests
+
+I am open to opportunities in:
+
+- Backend Development
+- Full-Stack Development
+- Software Development
+- API Development
+- Systems Integration
+- Junior to Intermediate Developer roles
+- Technical Support / Application Support roles with growth into development
+- AI-assisted software development projects
+
+I am especially interested in roles where I can work on real systems, improve business processes, and continue growing as a developer.
+
+---
+
+## What I Am Currently Improving
+
+I believe in continuous learning. I am currently improving my skills in:
+
+- Advanced backend architecture
+- Cloud deployment
+- AI-powered applications
+- System design
+- Testing and code quality
+- Database performance
+- Clean software architecture
+- Production-ready Next.js applications
+
+---
+
+## How I Work
+
+My approach is simple:
+
+```txt
+Understand the problem
+Break it into smaller parts
+Build the core feature
+Test the flow
+Fix what breaks
+Improve the user experience
+Document the solution
+Keep learning
+```
+
+I value consistency, clear communication, and practical progress.
+
+---
+
+## Contact
+
+- Email: maqoba.emannuel@gmail.com
+- GitHub: [@Maqoba-Jiyane](https://github.com/Maqoba-Jiyane)
+- Location: South Africa
+
+---
+
+## Summary
+
+I am a developer with strong backend foundations, full-stack ability, business understanding, and a practical mindset.
+
+I enjoy building systems that help people, support businesses, and create real value.
+
+My goal is to keep growing as a software developer while contributing to meaningful products and teams.
