@@ -47,9 +47,9 @@ My main strength is backend development, including API design, database schema d
 
 From my roots in **Java** to modern full-stack development, I aim to write clean, practical code that solves real organizational problems and improves business workflows. I enjoy working on systems where software has a clear purpose and delivers measurable value.
 
-## 🚀 Featured Projects
-
 ---
+
+## 🚀 Featured Projects
 
 ### 1. [Contexto](https://github.com/Maqoba-Jiyane/contexto)
 
