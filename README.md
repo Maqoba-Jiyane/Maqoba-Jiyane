@@ -45,6 +45,8 @@ The part I care about isn't the interface — it's the system behind it: data mo
 
 </div>
 
+> Generated daily by a GitHub Action that commits straight into this repo — no external service, nothing that can go down.
+
 ---
 
 ## Featured Engineering Work
@@ -174,7 +176,13 @@ A backend-heavy exploration of multi-tenant document ingestion and retrieval arc
 
 ## Contribution Snake 🐍
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </picture> </div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</picture>
+</div>
 
 ---
 
