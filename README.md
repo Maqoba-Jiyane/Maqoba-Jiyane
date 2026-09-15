@@ -194,7 +194,7 @@ Java EE · IBM App Connect Enterprise · WebSphere · ESQL
 
 **Comfortable owning work from requirements through production** — async communication, documented decisions, independent debugging in distributed teams.
 
-📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/maqoba-jiyane)** or **[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqobajiyane@gmail.com)** · Explore **[Employment Echo](https://employmentecho.co.za/)**
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/maqoba-jiyane)** or **[Email](mailto:maqobajiyane@gmail.com)** · Explore **[Employment Echo](https://employmentecho.co.za/)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maqoba-Jiyane&color=2EA3F7&style=flat-square&label=Profile+Views)
 
