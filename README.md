@@ -8,6 +8,7 @@
 South Africa · Open to remote Software Engineering roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maqoba-jiyane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqobajiyane@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Employment_Echo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://employmentecho.co.za/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maqoba-Jiyane)
 
@@ -193,7 +194,7 @@ Java EE · IBM App Connect Enterprise · WebSphere · ESQL
 
 **Comfortable owning work from requirements through production** — async communication, documented decisions, independent debugging in distributed teams.
 
-📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/maqoba-jiyane)** · Explore **[Employment Echo](https://employmentecho.co.za/)**
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/maqoba-jiyane)** or **[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqobajiyane@gmail.com)** · Explore **[Employment Echo](https://employmentecho.co.za/)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maqoba-Jiyane&color=2EA3F7&style=flat-square&label=Profile+Views)
 
