@@ -179,8 +179,6 @@ A backend-heavy exploration of multi-tenant document ingestion and retrieval arc
 <img src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-> Add the workflow in `profile-snake-workflow.yml` (in this same output) to generate this automatically — it eats your contribution graph, animated, and stays current on autopilot.
-
 ---
 
 <div align="center">
