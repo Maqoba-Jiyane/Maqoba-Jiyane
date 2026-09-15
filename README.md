@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://employmentecho.co.za/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Backend+%26+Full-Stack+Software+Engineer;I+build+the+systems+behind+the+interface;Data+modelling+%C2%B7+APIs+%C2%B7+Integrations+%C2%B7+Reliability;Currently%3A+1.01M%2B+search+impressions+in+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=900&lines=Backend+%26+Full-Stack+Software+Engineer;I+build+the+systems+behind+the+interface;Data+modelling+%C2%B7+APIs+%C2%B7+Integrations+%C2%B7+Reliability;Currently%3A+1.01M%2B+search+impressions+in+production" alt="Typing SVG" />
 </a>
 
 ### Maqoba Jiyane
