@@ -174,9 +174,7 @@ A backend-heavy exploration of multi-tenant document ingestion and retrieval arc
 
 ## Contribution Snake 🐍
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </picture> </div>
 
 ---
 
