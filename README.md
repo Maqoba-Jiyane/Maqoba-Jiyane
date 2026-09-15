@@ -37,12 +37,15 @@ The part I care about isn't the interface — it's the system behind it: data mo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maqoba-Jiyane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Maqoba-Jiyane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/main/profile/stats.svg" alt="GitHub Stats" />
+<img height="165" src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/main/profile/top-langs.svg" alt="Top Languages" />
+<img height="165" src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/main/profile/streak.svg" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maqoba-Jiyane&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
+<img src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/main/profile/activity-graph.svg" alt="Activity Graph" width="95%" />
 
 </div>
+
+> Generated daily by a GitHub Action that commits straight into this repo — no external service, nothing that can go down.
 
 ---
 
@@ -176,6 +179,8 @@ A backend-heavy exploration of multi-tenant document ingestion and retrieval arc
 <div align="center">
 <img src="https://raw.githubusercontent.com/Maqoba-Jiyane/Maqoba-Jiyane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+> Add the workflow in `profile-snake-workflow.yml` (in this same output) to generate this automatically — it eats your contribution graph, animated, and stays current on autopilot.
 
 ---
 
