@@ -136,6 +136,12 @@ A backend-heavy exploration of multi-tenant document ingestion and retrieval arc
 
 <div align="center">
 
+**Enterprise Integration**
+![Java EE](https://img.shields.io/badge/Java_EE-1B6AC6?style=flat-square)
+![IBM ACE](https://img.shields.io/badge/IBM_App_Connect_Enterprise-052FAD?style=flat-square)
+![WebSphere](https://img.shields.io/badge/WebSphere-4E4E4E?style=flat-square)
+![ESQL](https://img.shields.io/badge/ESQL-2D2D2D?style=flat-square)
+
 **Backend**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -153,12 +159,6 @@ A backend-heavy exploration of multi-tenant document ingestion and retrieval arc
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Enterprise Integration**
-![Java EE](https://img.shields.io/badge/Java_EE-1B6AC6?style=flat-square)
-![IBM ACE](https://img.shields.io/badge/IBM_App_Connect_Enterprise-052FAD?style=flat-square)
-![WebSphere](https://img.shields.io/badge/WebSphere-4E4E4E?style=flat-square)
-![ESQL](https://img.shields.io/badge/ESQL-2D2D2D?style=flat-square)
 
 **Infra**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
