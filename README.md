@@ -44,8 +44,6 @@ The part I care about isn't the interface — it's the system behind it: data mo
 
 </div>
 
-> These update automatically — no need to touch this file to keep them current.
-
 ---
 
 ## Featured Engineering Work
