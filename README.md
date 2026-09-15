@@ -9,7 +9,7 @@ South Africa · Open to remote Software Engineering roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maqoba-jiyane)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqobajiyane@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Employment_Echo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://employmentecho.co.za/)
+[![Portfolio](https://img.shields.io/badge/Employment_Echo-2EA3F7?style=for-the-badge)](https://employmentecho.co.za/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maqoba-Jiyane)
 
 </div>
@@ -121,8 +121,10 @@ A backend-heavy exploration of multi-tenant document ingestion and retrieval arc
 <br>
 
 **Nail Technician Booking Platform** — Appointment-management software focused on availability calculation, booking lifecycle rules, customer workflows and calendar/email integrations.
+[Live App](https://nail-tech-theta.vercel.app/) · [Repository](https://github.com/Maqoba-Jiyane/nail-tech)
 
-**Kasi Flavors** — Local food-ordering platform focused on menus, cart/order state, customer journeys and commerce workflows.
+**Kasi Flavors** — Local food-ordering platform focused on menus, cart/order state, customer journeys and commerce workflows. Production source is private; happy to walk through architecture and decisions in an interview.
+[Live App](https://www.kasiflavors.co.za/)
 
 *Additional public repositories and case studies added as documentation is prepared.*
 
@@ -152,10 +154,13 @@ A backend-heavy exploration of multi-tenant document ingestion and retrieval arc
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Enterprise Integration:** 
-Java EE · IBM App Connect Enterprise · WebSphere · ESQL
+**Enterprise Integration**
+![Java EE](https://img.shields.io/badge/Java_EE-1B6AC6?style=flat-square)
+![IBM ACE](https://img.shields.io/badge/IBM_App_Connect_Enterprise-052FAD?style=flat-square)
+![WebSphere](https://img.shields.io/badge/WebSphere-4E4E4E?style=flat-square)
+![ESQL](https://img.shields.io/badge/ESQL-2D2D2D?style=flat-square)
 
-**Infra & Enterprise**
+**Infra**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
