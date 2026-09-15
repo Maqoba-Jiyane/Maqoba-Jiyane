@@ -151,6 +151,9 @@ A backend-heavy exploration of multi-tenant document ingestion and retrieval arc
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+**Enterprise Integration:** 
+Java EE · IBM App Connect Enterprise · WebSphere · ESQL
+
 **Infra & Enterprise**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
